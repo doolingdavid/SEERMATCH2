@@ -26,7 +26,7 @@ filelistyr1973_2013 = ['SEER_1973_2013_TEXTDATA\\incidence\\yr1973_2013.seer9\\C
 
 
 filelistyr1992_2013 = ['SEER_1973_2013_TEXTDATA\\incidence\\yr1992_2013.sj_la_rg_ak\\COLRECT.TXT',
-             'inSEER_1973_2013_TEXTDATA\\incidence\\yr1992_2013.sj_la_rg_ak\\BREAST.TXT',
+             'SEER_1973_2013_TEXTDATA\\incidence\\yr1992_2013.sj_la_rg_ak\\BREAST.TXT',
             'SEER_1973_2013_TEXTDATA\\incidence\\yr1992_2013.sj_la_rg_ak\\DIGOTHR.TXT',
             'SEER_1973_2013_TEXTDATA\\incidence\\yr1992_2013.sj_la_rg_ak\\FEMGEN.TXT',
             'SEER_1973_2013_TEXTDATA\\incidence\\yr1992_2013.sj_la_rg_ak\\LYMYLEUK.TXT',
