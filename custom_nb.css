@@ -2,14 +2,14 @@
 .container { width:100% !important; }
 
 body {
-    color: lightblue;
-    background: lightblue;
+    color: #333;
+    background: #f6f6f6;
     width: 980px;
     margin: auto;
 }
 
 #notebook_panel { /* main background */
-    color: lightblue;
+    color: #f6f6f6;
     margin: auto;
 }
 
