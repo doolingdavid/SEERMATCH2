@@ -2,8 +2,8 @@
 .container { width:100% !important; }
 
 body {
-    color: #333;
-    background: #f6f6f6;
+    color: lightblue;
+    background: lightblue;
     width: 980px;
     margin: auto;
 }
