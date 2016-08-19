@@ -14,8 +14,8 @@ body {
 }
 
 div #notebook { /* center the content */
-    background: #ededed;
-    color: #ededed;    
+    background: lightblue;
+    color: lightblue;    
     padding-left: 1em;
     padding-right: 1em;
     padding-top: 2ex;
